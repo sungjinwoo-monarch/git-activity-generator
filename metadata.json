@@ -1,0 +1,6 @@
+{
+  "name": "Git Activity Generator",
+  "description": "An interactive designer and Python command-line utility styled in Japanese modernist graphic principles to design, preview, and generate customizable Git contribution patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
